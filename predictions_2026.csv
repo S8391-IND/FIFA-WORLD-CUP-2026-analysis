@@ -1,0 +1,49 @@
+rank,team,continent,quarter_finalist_prob,semi_finalist_prob,finalist_prob,winner_prob
+1,Argentina,South America,0.756,0.2797,0.235,0.2319
+2,France,Europe,0.4734,0.3888,0.337,0.2238
+3,Spain,Europe,0.5432,0.4041,0.2044,0.147
+4,Netherlands,Europe,0.4028,0.2207,0.1354,0.0814
+5,England,Europe,0.4427,0.2389,0.163,0.071
+6,Uruguay,South America,0.4864,0.2437,0.1671,0.0627
+7,Germany,Europe,0.3443,0.2208,0.0935,0.0625
+8,Brazil,South America,0.3988,0.0723,0.0589,0.047
+9,Sweden,Europe,0.3262,0.0807,0.0355,0.0406
+10,Mexico,North America,0.2952,0.2121,0.0181,0.0346
+11,Algeria,Africa,0.2775,0.2592,0.0525,0.0257
+12,Morocco,Africa,0.5085,0.5037,0.3802,0.0257
+13,Portugal,Europe,0.4694,0.434,0.2857,0.0234
+14,Uzbekistan,Asia,0.0619,0.0404,0.0424,0.0188
+15,Belgium,Europe,0.3717,0.1615,0.059,0.0176
+16,Japan,Asia,0.1633,0.1685,0.0387,0.0162
+17,Switzerland,Europe,0.2046,0.0732,0.0212,0.016
+18,Norway,Europe,0.3566,0.1619,0.0697,0.0117
+19,United States,North America,0.2942,0.2002,0.023,0.0107
+20,Senegal,Africa,0.4535,0.3724,0.1638,0.0101
+21,Iran,Asia,0.0649,0.0734,0.0453,0.0093
+22,Ecuador,South America,0.5142,0.1004,0.0416,0.0088
+23,Turkey,Europe,0.1461,0.1311,0.0345,0.0079
+24,Panama,North America,0.0556,0.032,0.007,0.0054
+25,Czech Republic,Europe,0.1075,0.0491,0.0204,0.0043
+26,Ghana,Africa,0.0832,0.0162,0.002,0.0042
+27,Cura?o,North America,0.0665,0.017,0.0039,0.0041
+28,Canada,North America,0.3207,0.2306,0.0044,0.0029
+29,Ivory Coast,Africa,0.2819,0.155,0.113,0.0026
+30,Egypt,Africa,0.0935,0.0424,0.0264,0.0024
+31,Australia,Oceania,0.0825,0.0352,0.0099,0.002
+32,South Korea,Asia,0.0609,0.0408,0.0097,0.002
+33,Austria,Europe,0.1559,0.0797,0.0343,0.0019
+34,Colombia,South America,0.2761,0.0593,0.0372,0.0015
+35,Jordan,Asia,0.0208,0.0078,0.0034,0.0015
+36,South Africa,Africa,0.0904,0.0144,0.005,0.0015
+37,Croatia,Europe,0.1801,0.0805,0.0198,0.0014
+38,Cape Verde,Africa,0.0575,0.0293,0.0122,0.0013
+39,Saudi Arabia,Asia,0.0224,0.0041,0.001,0.0004
+40,Tunisia,Africa,0.043,0.0243,0.0084,0.0004
+41,DR Congo,Africa,0.046,0.0188,0.0103,0.0004
+42,Qatar,Asia,0.0291,0.0066,0.002,0.0004
+43,Paraguay,South America,0.1711,0.0345,0.0051,0.0003
+44,Iraq,Asia,0.0221,0.0066,0.0027,0.0003
+45,Haiti,North America,0.0526,0.0127,0.0026,0.0003
+46,Bosnia and Herzegovina,Europe,0.0598,0.015,0.0018,0.0003
+47,Scotland,Europe,0.1491,0.0145,0.0105,0.0002
+48,New Zealand,Oceania,0.0609,0.0167,0.0028,0.0002

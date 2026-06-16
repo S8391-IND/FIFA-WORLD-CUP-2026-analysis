@@ -1,0 +1,13 @@
+target,model,cv_auc
+quarter_finalist,XGBoost,0.716
+quarter_finalist,RandomForest,0.773
+quarter_finalist,LogReg,0.749
+semi_finalist,XGBoost,0.755
+semi_finalist,RandomForest,0.75
+semi_finalist,LogReg,0.821
+finalist,XGBoost,0.728
+finalist,RandomForest,0.797
+finalist,LogReg,0.77
+winner,XGBoost,0.758
+winner,RandomForest,0.853
+winner,LogReg,0.875
